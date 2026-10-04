@@ -1,1 +1,1 @@
-{"name":"Mein Uni-Planer","short_name":"Uni-Planer","start_url":"./","display":"standalone","background_color":"#f6f7fb","theme_color":"#f6f7fb","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"name":"Mein Uni-Planer","short_name":"Uni-Planer","start_url":"./","display":"standalone","background_color":"#f5f1eb","theme_color":"#f5f1eb","icons":[{"src":"icon-1024.png","sizes":"1024x1024","type":"image/png","purpose":"any"},{"src":"icon-1024.png","sizes":"1024x1024","type":"image/png","purpose":"maskable"}]}
